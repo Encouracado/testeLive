@@ -1,0 +1,20 @@
+body{
+    background-color: aqua;
+}
+
+button {
+    border:0;
+    outline:none;
+    border-radius:0;
+    padding:15px 0;
+    font-size:2rem;
+    text-transform:uppercase;
+    letter-spacing:.1em;
+    transition:all.5s ease;
+    -webkit-appearance: none;
+  }
+  
+  .button-block {
+    display:block;
+    width:100%;
+  }
